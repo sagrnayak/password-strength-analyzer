@@ -2,6 +2,8 @@
 
 A Python-based tool that evaluates password strength using entropy, complexity checks, and prevents password reuse using a SQLite database.
 
+I implemented a password strength analyzer with entropy calculation and integrated SQLite database storage using SHA-256 hashing to prevent password reuse.
+
 ## 🚀 Features
 - Password strength evaluation (Weak / Moderate / Strong)
 - Entropy calculation
