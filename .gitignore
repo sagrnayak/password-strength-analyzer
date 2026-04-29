@@ -2,7 +2,7 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+passwords.db
 # C extensions
 *.so
 
